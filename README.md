@@ -41,7 +41,7 @@
 ## GitHub stats
 
 ![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaidalam10x&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidalam10x&layout=compact&theme=tokyonight)
+
 
 ---
 
