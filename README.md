@@ -3,7 +3,7 @@
 **PHP & WordPress Developer** based in Bihar, India. I build backend-driven web apps with PHP, MySQL and JavaScript, and I'm currently levelling up with Laravel.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junaidalam10x-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/junaidalam10x)
-[![Portfolio](https://img.shields.io/badge/Portfolio-junaidalam10x-111827?logo=googlechrome&logoColor=white)](junaidalam10x.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-junaidalam10x-111827?logo=googlechrome&logoColor=white)](https://github.com/junaidalam10x)
 [![Email](https://img.shields.io/badge/Email-junaidalam.dev@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:junaidalam.dev@gmail.com)
 
 ## About me
